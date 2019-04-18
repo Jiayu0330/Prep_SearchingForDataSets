@@ -1,6 +1,6 @@
 body{
   line-height: 1.5;
-  background-color: #B4ACBC;
+  background-color: #C6C6C6;
 }
 
 .title{
@@ -25,5 +25,5 @@ ol{
 }
 
 a:hover{
-  color: #5F1A37;
+  color: white;
 }
