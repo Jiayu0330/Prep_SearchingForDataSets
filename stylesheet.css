@@ -1,0 +1,29 @@
+body{
+  line-height: 1.5;
+  background-color: #B4ACBC;
+}
+
+.title{
+  text-align: center;
+  font-size: 24px;
+  font-weight: bold;
+  margin-top: 2%;
+  margin-bottom: 2%;
+}
+
+.cause{
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 2%;
+}
+
+ol{
+  margin-left: 18%;
+  width: 63%;
+  font-size: 18px;
+}
+
+a:hover{
+  color: #5F1A37;
+}
